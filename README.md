@@ -64,4 +64,4 @@ In this model, I apply data augmentation to the dataset through random horizonta
 
 The test accuracy and value of loss function with respect to the number of epochs are shown as follows. Note the test has achieved an accuracy score of above 83% after 15 epochs.
 
-![Alt text](asset/test_output.png/?raw=true "Test Accuracy")
+![Alt text](assets/test_output.png/?raw=true "Test Accuracy")
